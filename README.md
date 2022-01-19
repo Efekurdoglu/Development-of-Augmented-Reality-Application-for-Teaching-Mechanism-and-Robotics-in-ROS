@@ -1,2 +1,2 @@
-# Ikcu_manipulator
+# Development of Augmented Reality Application for Teaching Mechanism and Robotics in ROS
 In this Project, we present an approach to development of augmented reality application for teaching mechanism and robotics in ROS (Robot Operating System). Our approach uses Unity (Vuforia), ROS and SolidWorks that allows a user to specify high-level requests to the 6 degree of freedom robot manipulator, to build, approve or modify the computed robot motions. The proposed approach exploits requiring low-level motion specifications provided by the user. Furthermore, the robot can be used in education purposes. In the end, we present a discussion of its applicability in collaborative environments.
